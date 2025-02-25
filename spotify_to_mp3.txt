@@ -1,0 +1,112 @@
+### Resumo do Projeto: Converter Playlist do Spotify para MP3
+
+#### **1️⃣ O que você vai precisar?**
+- **Node.js** instalado no PC
+- **Pacotes NPM:**
+  - `ytdl-core` (baixar vídeos do YouTube)
+  - `fluent-ffmpeg` (converter para MP3)
+  - `node-fetch` (fazer requisições HTTP)
+  - `youtube-search-api` (buscar vídeos no YouTube)
+- **Conta no Spotify Developer** para pegar um token de API
+- **FFmpeg** instalado no sistema (para conversão)
+
+---
+
+#### **2️⃣ Passos do Projeto**
+
+1. **Obter a playlist do Spotify**
+   - Usar a API do Spotify para pegar o nome das músicas e artistas
+   - Transformar em um array de objetos `[{ artista, musica }]`
+   
+2. **Buscar a música no YouTube**
+   - Usar a API do YouTube ou um scraper (`youtube-search-api`)
+   - Pegar o primeiro resultado relevante
+   
+3. **Baixar e converter para MP3**
+   - Usar `ytdl-core` para baixar o áudio
+   - Converter para MP3 com `fluent-ffmpeg`
+   - Salvar com o nome formatado `"artista - musica.mp3"`
+
+---
+
+#### **3️⃣ Código Base**
+
+1. **Pegar Playlist do Spotify:**
+```javascript
+const fetch = require('node-fetch');
+const SPOTIFY_TOKEN = 'SEU_TOKEN_AQUI';
+const PLAYLIST_ID = 'ID_DA_PLAYLIST';
+
+async function getPlaylistTracks() {
+    const url = `https://api.spotify.com/v1/playlists/${PLAYLIST_ID}/tracks`;
+    const response = await fetch(url, {
+        headers: { Authorization: `Bearer ${SPOTIFY_TOKEN}` }
+    });
+    
+    const data = await response.json();
+    return data.items.map(item => ({
+        artista: item.track.artists[0].name,
+        musica: item.track.name
+    }));
+}
+```
+
+2. **Buscar Música no YouTube:**
+```javascript
+const search = require('youtube-search-api');
+
+async function findYouTubeURL(artista, musica) {
+    let query = `${artista} - ${musica}`;
+    let results = await search.GetListByKeyword(query, false, 1);
+    
+    if (results.items.length > 0) {
+        return `https://www.youtube.com/watch?v=${results.items[0].id}`;
+    }
+    return null;
+}
+```
+
+3. **Baixar e Converter para MP3:**
+```javascript
+const ytdl = require('ytdl-core');
+const ffmpeg = require('fluent-ffmpeg');
+const fs = require('fs');
+
+async function downloadMP3(url, outputFile) {
+    const stream = ytdl(url, { quality: 'highestaudio' });
+
+    ffmpeg(stream)
+        .audioCodec('libmp3lame')
+        .toFormat('mp3')
+        .save(outputFile)
+        .on('end', () => console.log(`Download concluído: ${outputFile}`))
+        .on('error', err => console.error('Erro:', err));
+}
+```
+
+4. **Rodar tudo junto:**
+```javascript
+(async () => {
+    let playlist = await getPlaylistTracks();
+
+    for (let song of playlist) {
+        let ytUrl = await findYouTubeURL(song.artista, song.musica);
+        if (ytUrl) {
+            let fileName = `${song.artista} - ${song.musica}.mp3`.replace(/[/\\?%*:|"<>]/g, '');
+            await downloadMP3(ytUrl, fileName);
+        }
+    }
+})();
+```
+
+---
+
+#### **4️⃣ Melhorias Futuras**
+- Melhorar a busca no YouTube para evitar versões erradas
+- Criar um sistema de fila para baixar várias músicas ao mesmo tempo
+- Criar uma interface para facilitar a escolha da playlist
+
+---
+
+### **🔥 Agora é só testar!**
+Se tiver dúvidas, só chamar! 🚀
