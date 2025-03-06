@@ -1,0 +1,3045 @@
+[
+  {
+    "name": "Malandro Demais Vira Bicho",
+    "artists": [
+      "Febre90s",
+      "SonoTWS",
+      "pumapjl"
+    ]
+  },
+  {
+    "name": "Crack com Mussilon",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "Imagina esse Cenário",
+    "artists": [
+      "Matuê",
+      "Veigh"
+    ]
+  },
+  {
+    "name": "La Noche",
+    "artists": [
+      "Yago Oproprio",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "3AM in SP",
+    "artists": [
+      "Brocasito",
+      "Gabb MC",
+      "Mc Tato"
+    ]
+  },
+  {
+    "name": "Inofensiva",
+    "artists": [
+      "Yago Oproprio",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "333",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "Complexo",
+    "artists": [
+      "Mc Brinquedo"
+    ]
+  },
+  {
+    "name": "Isso é Sério",
+    "artists": [
+      "Matuê",
+      "Brandão85"
+    ]
+  },
+  {
+    "name": "1993",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "Prata",
+    "artists": [
+      "pumapjl",
+      "SonoTWS"
+    ]
+  },
+  {
+    "name": "Enigma",
+    "artists": [
+      "Yago Oproprio",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "Solta Minha Blusa",
+    "artists": [
+      "pumapjl",
+      "SonoTWS"
+    ]
+  },
+  {
+    "name": "V de Vilão",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "Zona Sul",
+    "artists": [
+      "pumapjl",
+      "SonoTWS"
+    ]
+  },
+  {
+    "name": "Castlevania",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "No Piscar dos Olhos",
+    "artists": [
+      "Febre90s",
+      "pumapjl",
+      "SonoTWS",
+      "Lis Mc"
+    ]
+  },
+  {
+    "name": "Reduto de Malandro",
+    "artists": [
+      "pumapjl",
+      "SonoTWS"
+    ]
+  },
+  {
+    "name": "O Que É Meu Ninguém Me Tira",
+    "artists": [
+      "pumapjl",
+      "SonoTWS"
+    ]
+  },
+  {
+    "name": "OK! OK!",
+    "artists": [
+      "Teto",
+      "Brocasito"
+    ]
+  },
+  {
+    "name": "Cyberpunk",
+    "artists": [
+      "Yunk Vino",
+      "Labbel Rec",
+      "Neckklace"
+    ]
+  },
+  {
+    "name": "Bola Outro",
+    "artists": [
+      "Jé",
+      "Brocasito"
+    ]
+  },
+  {
+    "name": "THE BOX MEDLEY 5",
+    "artists": [
+      "THE BOX",
+      "Ryu, The Runner",
+      "Raffa Moreira",
+      "Sidoka",
+      "Brocasito"
+    ]
+  },
+  {
+    "name": "Melancolico Ironico",
+    "artists": [
+      "De Leve"
+    ]
+  },
+  {
+    "name": "Sessãofumaça",
+    "artists": [
+      "Chozy",
+      "Babidi"
+    ]
+  },
+  {
+    "name": "Botei uns Kit Logo Cedo",
+    "artists": [
+      "PCN boladão",
+      "ICE4i20",
+      "Ogfp7"
+    ]
+  },
+  {
+    "name": "Transição (Mensagem)",
+    "artists": [
+      "pumapjl",
+      "SonoTWS"
+    ]
+  },
+  {
+    "name": "Frio",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Traumas, Pt. 2",
+    "artists": [
+      "Gyylo"
+    ]
+  },
+  {
+    "name": "Polo Usa",
+    "artists": [
+      "yung vegan",
+      "Bolin Batidas"
+    ]
+  },
+  {
+    "name": "Sangue Frio",
+    "artists": [
+      "Caio Ocean"
+    ]
+  },
+  {
+    "name": "Cega Eles Vovó",
+    "artists": [
+      "pumapjl",
+      "SonoTWS"
+    ]
+  },
+  {
+    "name": "Nipsey do Azul",
+    "artists": [
+      "Akira Presidente",
+      "Major RD",
+      "MC Flavinho",
+      "DJ Decco"
+    ]
+  },
+  {
+    "name": "Flores",
+    "artists": [
+      "Thxuzz"
+    ]
+  },
+  {
+    "name": "1...2...3 (Intro)",
+    "artists": [
+      "Brocasito"
+    ]
+  },
+  {
+    "name": "Terra de Ninguém",
+    "artists": [
+      "Caio Ocean"
+    ]
+  },
+  {
+    "name": "O Escolhido",
+    "artists": [
+      "Brocasito",
+      "Teto"
+    ]
+  },
+  {
+    "name": "Ctrl S",
+    "artists": [
+      "iann guxtavo",
+      "DINE FP",
+      "Gyylo",
+      "MZ",
+      "Elleven"
+    ]
+  },
+  {
+    "name": "Time lapse",
+    "artists": [
+      "Lc da 100",
+      "Brocasito",
+      "Dj Alle da coro",
+      "Cúpula"
+    ]
+  },
+  {
+    "name": "Porsche \"Ye Yo\"",
+    "artists": [
+      "Jé"
+    ]
+  },
+  {
+    "name": "Antes do Fim da Trama",
+    "artists": [
+      "yung vegan",
+      "vinicreizi"
+    ]
+  },
+  {
+    "name": "Kenny G",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "21 Anos",
+    "artists": [
+      "Gyylo"
+    ]
+  },
+  {
+    "name": "Gramas",
+    "artists": [
+      "Mc Brinquedo"
+    ]
+  },
+  {
+    "name": "Pensando na Gente",
+    "artists": [
+      "Yuri Redicopa",
+      "MC LCKaiique"
+    ]
+  },
+  {
+    "name": "Olha oq ce fez comigo",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "desgraçadagostosamaldita",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Vidigal",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Rainha da Finesse",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Dentro Da Mala",
+    "artists": [
+      "MC PH",
+      "Teto",
+      "Pedro Lotto",
+      "WEY"
+    ]
+  },
+  {
+    "name": "SEMRÉH",
+    "artists": [
+      "Ryu, The Runner",
+      "BK",
+      "6ee"
+    ]
+  },
+  {
+    "name": "Tantos Planos",
+    "artists": [
+      "Brocasito",
+      "JayPluggz",
+      "Stuani"
+    ]
+  },
+  {
+    "name": "Sirenes",
+    "artists": [
+      "Big Bllakk",
+      "SD9",
+      "Pedro Apoema"
+    ]
+  },
+  {
+    "name": "Não Me Liga 00:00",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Sorriso no Rosto",
+    "artists": [
+      "Mc Leozin",
+      "MC Rick",
+      "Boladin 211",
+      "Deliverymusic",
+      "Dj L Martins"
+    ]
+  },
+  {
+    "name": "Fluoca, Fluoca, Fluoca",
+    "artists": [
+      "Brocasito"
+    ]
+  },
+  {
+    "name": "Champagne",
+    "artists": [
+      "Brisa Flow",
+      "yung vegan",
+      "vinicreizi"
+    ]
+  },
+  {
+    "name": "Kami",
+    "artists": [
+      "yung vegan",
+      "vinicreizi"
+    ]
+  },
+  {
+    "name": "Miragem",
+    "artists": [
+      "Brocasito"
+    ]
+  },
+  {
+    "name": "Sensações",
+    "artists": [
+      "VL"
+    ]
+  },
+  {
+    "name": "Perto de Mim",
+    "artists": [
+      "Mc Kevin",
+      "Dj Nene",
+      "Brunito Beats"
+    ]
+  },
+  {
+    "name": "Um Cara de Sorte",
+    "artists": [
+      "Brocasito",
+      "JayPluggz"
+    ]
+  },
+  {
+    "name": "Ryoko",
+    "artists": [
+      "yung vegan",
+      "Bolin Batidas"
+    ]
+  },
+  {
+    "name": "Fim de Semana no Rio",
+    "artists": [
+      "Teto"
+    ]
+  },
+  {
+    "name": "1967 - Live",
+    "artists": [
+      "Marcelo D2"
+    ]
+  },
+  {
+    "name": "Antes",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "3 Dias Virado",
+    "artists": [
+      "Mc IG"
+    ]
+  },
+  {
+    "name": "Total 90",
+    "artists": [
+      "yung vegan",
+      "vinicreizi"
+    ]
+  },
+  {
+    "name": "Inevitável",
+    "artists": [
+      "Makalister",
+      "Beli Remour"
+    ]
+  },
+  {
+    "name": "Amores Perros",
+    "artists": [
+      "Makalister"
+    ]
+  },
+  {
+    "name": "A Terça Parte da Noite Não Dormi",
+    "artists": [
+      "Makalister"
+    ]
+  },
+  {
+    "name": "Amores Expressos",
+    "artists": [
+      "Makalister",
+      "Beli Remour"
+    ]
+  },
+  {
+    "name": "Outro Voo",
+    "artists": [
+      "Brocasito",
+      "MC PH",
+      "JayPluggz"
+    ]
+  },
+  {
+    "name": "H. O. R. T. A",
+    "artists": [
+      "Matuê",
+      "Menestrel"
+    ]
+  },
+  {
+    "name": "Fantasmas",
+    "artists": [
+      "Froid",
+      "Makalister"
+    ]
+  },
+  {
+    "name": "Roots",
+    "artists": [
+      "Bob Marley & The Wailers"
+    ]
+  },
+  {
+    "name": "O Tempo nos Parece Mais Pesado Que o Físico, Pt. 2",
+    "artists": [
+      "Makalister"
+    ]
+  },
+  {
+    "name": "Tchau, Regina",
+    "artists": [
+      "Nill"
+    ]
+  },
+  {
+    "name": "04AM",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "Sementinha do Mal",
+    "artists": [
+      "Febre90s",
+      "SonoTWS",
+      "pumapjl"
+    ]
+  },
+  {
+    "name": "Traumas",
+    "artists": [
+      "Gyylo",
+      "Tiizy"
+    ]
+  },
+  {
+    "name": "Praga",
+    "artists": [
+      "pumapjl",
+      "Novin",
+      "wavybil"
+    ]
+  },
+  {
+    "name": "4Tal",
+    "artists": [
+      "Matuê",
+      "Teto"
+    ]
+  },
+  {
+    "name": "Não é Só o Nome",
+    "artists": [
+      "Mc Brinquedo",
+      "Brocasito",
+      "JayPluggz"
+    ]
+  },
+  {
+    "name": "THE BOX MEDLEY FUNK 2",
+    "artists": [
+      "THE BOX",
+      "Mc Brinquedo",
+      "MC Cebezinho",
+      "MC Tuto",
+      "Mc Laranjinha",
+      "DJ Oreia"
+    ]
+  },
+  {
+    "name": "Nois é Debochado",
+    "artists": [
+      "Mc Brinquedo",
+      "DJ Oreia"
+    ]
+  },
+  {
+    "name": "Fazendo Acontecer",
+    "artists": [
+      "Mc Brinquedo",
+      "MC Cebezinho",
+      "DJ Oreia"
+    ]
+  },
+  {
+    "name": "Bala",
+    "artists": [
+      "Froid",
+      "Veigh",
+      "Nagalli"
+    ]
+  },
+  {
+    "name": "P90",
+    "artists": [
+      "Brocasito"
+    ]
+  },
+  {
+    "name": "Dutumob",
+    "artists": [
+      "Filipe Ret",
+      "Mãolee",
+      "Daniel Shadow"
+    ]
+  },
+  {
+    "name": "Tocaia",
+    "artists": [
+      "Yago Oproprio",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "Carlos Urubu",
+    "artists": [
+      "Caio Ocean",
+      "Open Timbz"
+    ]
+  },
+  {
+    "name": "FNB",
+    "artists": [
+      "Japa",
+      "Ryu, The Runner",
+      "Neckklace"
+    ]
+  },
+  {
+    "name": "Doce Veneno",
+    "artists": [
+      "Costa Gold"
+    ]
+  },
+  {
+    "name": "Lucro",
+    "artists": [
+      "Sain",
+      "Felp 22"
+    ]
+  },
+  {
+    "name": "Nada Bom",
+    "artists": [
+      "Costa Gold",
+      "Billy Billy"
+    ]
+  },
+  {
+    "name": "total 90!",
+    "artists": [
+      "Kyan",
+      "Mu540"
+    ]
+  },
+  {
+    "name": "Vago",
+    "artists": [
+      "Costa Gold"
+    ]
+  },
+  {
+    "name": "Caminhos",
+    "artists": [
+      "BK",
+      "El Lif Beatz"
+    ]
+  },
+  {
+    "name": "Titãs",
+    "artists": [
+      "BK",
+      "El Lif Beatz"
+    ]
+  },
+  {
+    "name": "Amor",
+    "artists": [
+      "BK",
+      "JXNV$"
+    ]
+  },
+  {
+    "name": "Medo de Quase Nada",
+    "artists": [
+      "LEALL",
+      "Rock Danger",
+      "Pedro Apoema"
+    ]
+  },
+  {
+    "name": "Criminal Influencer",
+    "artists": [
+      "LEALL",
+      "Tarcis"
+    ]
+  },
+  {
+    "name": "Danos Mentais",
+    "artists": [
+      "PRAGAS RARE",
+      "OG BRITTO"
+    ]
+  },
+  {
+    "name": "Casa do Tio Wiu",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Universo",
+    "artists": [
+      "BK",
+      "JXNV$",
+      "Nansy Silvvz"
+    ]
+  },
+  {
+    "name": "47 (Brocasito)",
+    "artists": [
+      "Gomesthekid"
+    ]
+  },
+  {
+    "name": "Regras da Loja",
+    "artists": [
+      "Nill",
+      "BK",
+      "CrimeNow"
+    ]
+  },
+  {
+    "name": "Trinity",
+    "artists": [
+      "Brocasito",
+      "JayPluggz"
+    ]
+  },
+  {
+    "name": "Sim ou Não",
+    "artists": [
+      "Massaru",
+      "EF",
+      "Lee San"
+    ]
+  },
+  {
+    "name": "Ritmia Do Funk",
+    "artists": [
+      "Boaventura",
+      "Trap Select"
+    ]
+  },
+  {
+    "name": "te esperar",
+    "artists": [
+      "Artwo"
+    ]
+  },
+  {
+    "name": "Eduardo o Pato",
+    "artists": [
+      "Caio Ocean"
+    ]
+  },
+  {
+    "name": "Vivência Maldita",
+    "artists": [
+      "LEALL",
+      "Rock Danger",
+      "Sain",
+      "Erick Jay",
+      "Babidi"
+    ]
+  },
+  {
+    "name": "Reús",
+    "artists": [
+      "Filipe Ret"
+    ]
+  },
+  {
+    "name": "tipo, sonho de consumo!",
+    "artists": [
+      "Kyan",
+      "Mu540",
+      "Tasha & Tracie"
+    ]
+  },
+  {
+    "name": "Sem Colete",
+    "artists": [
+      "Akira Presidente",
+      "Sain",
+      "El Lif Beatz"
+    ]
+  },
+  {
+    "name": "O Crime e a Música",
+    "artists": [
+      "LEALL",
+      "Rock Danger",
+      "Xamã",
+      "Ryu, The Runner",
+      "Babidi"
+    ]
+  },
+  {
+    "name": "Eu Ainda Tenho Coração",
+    "artists": [
+      "LEALL",
+      "Rock Danger",
+      "Babidi"
+    ]
+  },
+  {
+    "name": "\"Plano B\"",
+    "artists": [
+      "Brocasito"
+    ]
+  },
+  {
+    "name": "Amores, Vícios e Obsessões",
+    "artists": [
+      "BK",
+      "JXNV$"
+    ]
+  },
+  {
+    "name": "Caras Como Eu",
+    "artists": [
+      "Caio Ocean"
+    ]
+  },
+  {
+    "name": "Castelos & Ruínas",
+    "artists": [
+      "BK",
+      "Sain"
+    ]
+  },
+  {
+    "name": "Surtar Faz Parte do Processo",
+    "artists": [
+      "Gyylo",
+      "iann guxtavo",
+      "Elleven"
+    ]
+  },
+  {
+    "name": "Devaneios Retianos",
+    "artists": [
+      "Filipe Ret",
+      "Mãolee"
+    ]
+  },
+  {
+    "name": "Tesselation",
+    "artists": [
+      "Mild High Club"
+    ]
+  },
+  {
+    "name": "Faz Completo, Chefe",
+    "artists": [
+      "Mc IG",
+      "DJ WN"
+    ]
+  },
+  {
+    "name": "Toda Guerra Tem Tréguas",
+    "artists": [
+      "Makalister",
+      "Beli Remour"
+    ]
+  },
+  {
+    "name": "155",
+    "artists": [
+      "Brocasito",
+      "JayPluggz"
+    ]
+  },
+  {
+    "name": "Meia Noite",
+    "artists": [
+      "Mc IG",
+      "MC PH",
+      "Lil Kid 777",
+      "TrapLaudo"
+    ]
+  },
+  {
+    "name": "Não Viva Em Vão",
+    "artists": [
+      "Charlie Brown Jr."
+    ]
+  },
+  {
+    "name": "Os Bico Tão Se Perguntando (Let’s Go 3)",
+    "artists": [
+      "MC PH"
+    ]
+  },
+  {
+    "name": "Cara da Midia",
+    "artists": [
+      "Mc Daniel",
+      "Dj Luan MPC",
+      "DJ PEPI"
+    ]
+  },
+  {
+    "name": "Tá Facin",
+    "artists": [
+      "Mc IG",
+      "Mc Davi",
+      "Mc Don Juan",
+      "DJ Oreia",
+      "Dj Nene",
+      "TrapLaudo",
+      "MC Tuto",
+      "MC PH",
+      "Mc Kanhoto",
+      "MC Rick",
+      "MC Kekel",
+      "Prod Vida"
+    ]
+  },
+  {
+    "name": "Alegorias e Adereços",
+    "artists": [
+      "VND",
+      "KOPO",
+      "wavybil"
+    ]
+  },
+  {
+    "name": "Renascido",
+    "artists": [
+      "yung vegan",
+      "Pizzol"
+    ]
+  },
+  {
+    "name": "Celine",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "Só Mais Um Copo",
+    "artists": [
+      "Mc IG",
+      "Murillo e LT no Beat"
+    ]
+  },
+  {
+    "name": "O Retorno do Boombap - Bônus",
+    "artists": [
+      "Big Bllakk",
+      "Rock Danger",
+      "MG CDD",
+      "Babidi"
+    ]
+  },
+  {
+    "name": "Dia Azul",
+    "artists": [
+      "Teto"
+    ]
+  },
+  {
+    "name": "Lealdade",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Tenho Que Me Decidir",
+    "artists": [
+      "MC PH",
+      "Borges",
+      "WIU",
+      "Pedro Lotto",
+      "WEY"
+    ]
+  },
+  {
+    "name": "Ciumenta",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Brinca Demais",
+    "artists": [
+      "WIU",
+      "Matuê",
+      "Teto"
+    ]
+  },
+  {
+    "name": "Bicho Papão",
+    "artists": [
+      "SonoTWS",
+      "Nill"
+    ]
+  },
+  {
+    "name": "Cartel do 900",
+    "artists": [
+      "DJ 900",
+      "MC Hariel",
+      "Mc Kevin",
+      "MC Menor da VG",
+      "Mc IG",
+      "MC Rick",
+      "Mc Don Juan"
+    ]
+  },
+  {
+    "name": "ONDA FORTE RMX",
+    "artists": [
+      "Planet Hemp",
+      "Kamau"
+    ]
+  },
+  {
+    "name": "Eu Mermo",
+    "artists": [
+      "Pineapple StormTv",
+      "Derxan",
+      "R.Muñoz"
+    ]
+  },
+  {
+    "name": "Mundo da lua",
+    "artists": [
+      "Yago Oproprio",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "Estaca zero",
+    "artists": [
+      "Yago Oproprio",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "Nuvens tóxicas",
+    "artists": [
+      "Yago Oproprio",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "Mundo da lua",
+    "artists": [
+      "Yago Oproprio",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "eu tô cansado",
+    "artists": [
+      "8poolfv"
+    ]
+  },
+  {
+    "name": "Meu Mundo (feat. Baco Exu do Blues)",
+    "artists": [
+      "MC PH",
+      "Baco Exu do Blues",
+      "WEY",
+      "Pedro Lotto"
+    ]
+  },
+  {
+    "name": "Slow Jam",
+    "artists": [
+      "Brocasito",
+      "C4rlinhxs",
+      "@Babysavagx zone"
+    ]
+  },
+  {
+    "name": "Pior Que Eles",
+    "artists": [
+      "FBC"
+    ]
+  },
+  {
+    "name": "Muito Tempo",
+    "artists": [
+      "Mc Brinquedo",
+      "JD On Tha Track"
+    ]
+  },
+  {
+    "name": "Não É Sério",
+    "artists": [
+      "Charlie Brown Jr.",
+      "Negra Li"
+    ]
+  },
+  {
+    "name": "Exodus",
+    "artists": [
+      "Bob Marley & The Wailers"
+    ]
+  },
+  {
+    "name": "2036",
+    "artists": [
+      "Japa"
+    ]
+  },
+  {
+    "name": "Meia Noite",
+    "artists": [
+      "Dfideliz",
+      "MC Joãozinho VT",
+      "Menor MC",
+      "Nagalli",
+      "Toledo",
+      "Viper"
+    ]
+  },
+  {
+    "name": "Bebelzinho",
+    "artists": [
+      "Caio Ocean"
+    ]
+  },
+  {
+    "name": "Tipo IG",
+    "artists": [
+      "MC PH",
+      "Solanno",
+      "Mc IG",
+      "Murillo e LT no Beat"
+    ]
+  },
+  {
+    "name": "Passaporte",
+    "artists": [
+      "André Miquelotti",
+      "P.L.K",
+      "Ruas Mc"
+    ]
+  },
+  {
+    "name": "Terapia",
+    "artists": [
+      "Mc Kevin"
+    ]
+  },
+  {
+    "name": "Doida",
+    "artists": [
+      "pumapjl"
+    ]
+  },
+  {
+    "name": "O Som",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "Hey, Good Lookin'",
+    "artists": [
+      "Hank Williams"
+    ]
+  },
+  {
+    "name": "Ominipotence",
+    "artists": [
+      "Nill",
+      "O Adotado",
+      "2:22"
+    ]
+  },
+  {
+    "name": "Atriz de Cinema",
+    "artists": [
+      "MC PH",
+      "Fepache"
+    ]
+  },
+  {
+    "name": "Frutos",
+    "artists": [
+      "MC PH",
+      "Kyan",
+      "Dé Barros",
+      "Charlie A"
+    ]
+  },
+  {
+    "name": "Só de Mal",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Sem Coração",
+    "artists": [
+      "DJ DAL7",
+      "Yuri Redicopa",
+      "MC Menor JV",
+      "Prime Funk"
+    ]
+  },
+  {
+    "name": "Sutil",
+    "artists": [
+      "Puro Suco",
+      "Prs, o Peres"
+    ]
+  },
+  {
+    "name": "Eu Fumei a Árvore de Natal",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Jejum",
+    "artists": [
+      "Yago Oproprio",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "Esse seu Jeito",
+    "artists": [
+      "Jean Tassy",
+      "Iuri Rio Branco",
+      "Yago Oproprio"
+    ]
+  },
+  {
+    "name": "Sonhei",
+    "artists": [
+      "Jean Tassy",
+      "Iuri Rio Branco"
+    ]
+  },
+  {
+    "name": "Diz Pra Mim",
+    "artists": [
+      "Jean Tassy",
+      "Iuri Rio Branco"
+    ]
+  },
+  {
+    "name": "Guerra de Ego",
+    "artists": [
+      "Derxan",
+      "Pedro Apoema"
+    ]
+  },
+  {
+    "name": "Aquelas Coisas Mais Pra Frente",
+    "artists": [
+      "Sain"
+    ]
+  },
+  {
+    "name": "Viveiro",
+    "artists": [
+      "Jean Tassy",
+      "Iuri Rio Branco"
+    ]
+  },
+  {
+    "name": "É Pouco",
+    "artists": [
+      "Seu Pereira e Coletivo 401"
+    ]
+  },
+  {
+    "name": "Trancado na Mente",
+    "artists": [
+      "Uxie Kid"
+    ]
+  },
+  {
+    "name": "Programs",
+    "artists": [
+      "Mac Miller"
+    ]
+  },
+  {
+    "name": "Aventura",
+    "artists": [
+      "Big Bllakk",
+      "Rock Danger",
+      "$amuka",
+      "Juyè",
+      "Beat do Ávila"
+    ]
+  },
+  {
+    "name": "Facetime",
+    "artists": [
+      "Brocasito",
+      "JayPluggz"
+    ]
+  },
+  {
+    "name": "Telegrama",
+    "artists": [
+      "Zeca Baleiro"
+    ]
+  },
+  {
+    "name": "Trago",
+    "artists": [
+      "Ana Frango Elétrico"
+    ]
+  },
+  {
+    "name": "Da Era do Amor Virtual",
+    "artists": [
+      "Makalister"
+    ]
+  },
+  {
+    "name": "Sozinho no Sukyia",
+    "artists": [
+      "Raffa Moreira",
+      "Makalister"
+    ]
+  },
+  {
+    "name": "Filme",
+    "artists": [
+      "Froid",
+      "Makalister"
+    ]
+  },
+  {
+    "name": "Homens Estão se Tornando Máquinas",
+    "artists": [
+      "Makalister",
+      "Beli Remour",
+      "Dj Belton"
+    ]
+  },
+  {
+    "name": "Flatsh",
+    "artists": [
+      "Makalister Renton"
+    ]
+  },
+  {
+    "name": "Punto G",
+    "artists": [
+      "Makalister"
+    ]
+  },
+  {
+    "name": "A Novinha",
+    "artists": [
+      "MC Igu"
+    ]
+  },
+  {
+    "name": "Lombrado",
+    "artists": [
+      "MC Igu"
+    ]
+  },
+  {
+    "name": "Verdades",
+    "artists": [
+      "pibara"
+    ]
+  },
+  {
+    "name": "GTA",
+    "artists": [
+      "MC Igu",
+      "Yunk Vino"
+    ]
+  },
+  {
+    "name": "20 Minutos",
+    "artists": [
+      "MC Igu"
+    ]
+  },
+  {
+    "name": "Juízo Final",
+    "artists": [
+      "Nelson Cavaquinho"
+    ]
+  },
+  {
+    "name": "Subway 24Hrs",
+    "artists": [
+      "Makalister Renton"
+    ]
+  },
+  {
+    "name": "30k",
+    "artists": [
+      "Crônicas de um Babaca",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "Tudo Passa",
+    "artists": [
+      "Don",
+      "Unanni",
+      "DIRESPONSA",
+      "Jean Tassy",
+      "Riff"
+    ]
+  },
+  {
+    "name": "Eu Memo",
+    "artists": [
+      "Crônicas de um Babaca",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "Piloto_mp3",
+    "artists": [
+      "Crônicas de um Babaca"
+    ]
+  },
+  {
+    "name": "Roxo",
+    "artists": [
+      "Ana Frango Elétrico"
+    ]
+  },
+  {
+    "name": "Improvável",
+    "artists": [
+      "Rô Rosa",
+      "Yago Oproprio",
+      "EME Lab"
+    ]
+  },
+  {
+    "name": "Flow Caixa de Surpresa (De Frente a Fila Preferencial)",
+    "artists": [
+      "Makalister",
+      "Lessa Gustavo"
+    ]
+  },
+  {
+    "name": "Só se fu…",
+    "artists": [
+      "Jean Tassy",
+      "Iuri Rio Branco",
+      "Yago Oproprio"
+    ]
+  },
+  {
+    "name": "Japan",
+    "artists": [
+      "Yot Club"
+    ]
+  },
+  {
+    "name": "Farelos",
+    "artists": [
+      "Ana Frango Elétrico"
+    ]
+  },
+  {
+    "name": "Spice Girl",
+    "artists": [
+      "Makalister",
+      "Froid"
+    ]
+  },
+  {
+    "name": "Dos Mistérios",
+    "artists": [
+      "Makalister",
+      "Beli Remour"
+    ]
+  },
+  {
+    "name": "Hiato",
+    "artists": [
+      "Crônicas de um Babaca",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "Garotas Curtem Don L",
+    "artists": [
+      "Makalister"
+    ]
+  },
+  {
+    "name": "You Are the Right One",
+    "artists": [
+      "Sports"
+    ]
+  },
+  {
+    "name": "Problemas de um Milionário",
+    "artists": [
+      "WIU",
+      "Teto"
+    ]
+  },
+  {
+    "name": "Guidom",
+    "artists": [
+      "Madg Beats",
+      "Murica"
+    ]
+  },
+  {
+    "name": "Lágrimas de Crocodilo",
+    "artists": [
+      "Mc Kevin",
+      "DJ Glenner"
+    ]
+  },
+  {
+    "name": "Só",
+    "artists": [
+      "Kamau"
+    ]
+  },
+  {
+    "name": "Alone Again (Naturally)",
+    "artists": [
+      "Gilbert O'Sullivan"
+    ]
+  },
+  {
+    "name": "Messages from the Stars",
+    "artists": [
+      "The Rah Band"
+    ]
+  },
+  {
+    "name": "Todo Mundo Odeia o Brocasito",
+    "artists": [
+      "Brocasito",
+      "Stuani"
+    ]
+  },
+  {
+    "name": "FEBRE DO RATO}",
+    "artists": [
+      "Marcelo D2"
+    ]
+  },
+  {
+    "name": "Metamorfose Ambulante",
+    "artists": [
+      "Raul Seixas"
+    ]
+  },
+  {
+    "name": "Estaca zero",
+    "artists": [
+      "Yago Oproprio",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "Disco",
+    "artists": [
+      "Surf Curse"
+    ]
+  },
+  {
+    "name": "As Ruas Chamam",
+    "artists": [
+      "Big Bllakk",
+      "Pedro Apoema",
+      "Bolin Batidas"
+    ]
+  },
+  {
+    "name": "Comuna",
+    "artists": [
+      "Crônicas de um Babaca",
+      "Padrin"
+    ]
+  },
+  {
+    "name": "Doce Bárbaros, Country Wine",
+    "artists": [
+      "Makalister"
+    ]
+  },
+  {
+    "name": "Tarot",
+    "artists": [
+      "yung vegan"
+    ]
+  },
+  {
+    "name": "Sem Mim",
+    "artists": [
+      "ZackZin"
+    ]
+  },
+  {
+    "name": "Oração",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Cheguei No Anonimato",
+    "artists": [
+      "Mc Kevin",
+      "Mc IG",
+      "MC PH"
+    ]
+  },
+  {
+    "name": "Deixou Pra Lá",
+    "artists": [
+      "Mc Kevin",
+      "Dj Nene"
+    ]
+  },
+  {
+    "name": "Medo de Quem?",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "gucci con tacchini!",
+    "artists": [
+      "Kyan",
+      "Mu540"
+    ]
+  },
+  {
+    "name": "nunca mais vou ser clt",
+    "artists": [
+      "Link do Zap"
+    ]
+  },
+  {
+    "name": "Bola Outro",
+    "artists": [
+      "Sotam"
+    ]
+  },
+  {
+    "name": "Da Ponte pra Cá",
+    "artists": [
+      "Racionais MC's"
+    ]
+  },
+  {
+    "name": "Homem na Estrada",
+    "artists": [
+      "Racionais MC's"
+    ]
+  },
+  {
+    "name": "Gatinha Comunista",
+    "artists": [
+      "Vitroles"
+    ]
+  },
+  {
+    "name": "Satisfy My Soul",
+    "artists": [
+      "Bob Marley & The Wailers"
+    ]
+  },
+  {
+    "name": "Gettin' Jiggy Wit It",
+    "artists": [
+      "Will Smith"
+    ]
+  },
+  {
+    "name": "CA$HALTO",
+    "artists": [
+      "MC Igu"
+    ]
+  },
+  {
+    "name": "Erro Favorito",
+    "artists": [
+      "2ZDinizz",
+      "HHR"
+    ]
+  },
+  {
+    "name": "Se Eu Pudesse",
+    "artists": [
+      "2ZDinizz",
+      "L7NNON",
+      "HHR"
+    ]
+  },
+  {
+    "name": "Ficar Rico Esse Ano",
+    "artists": [
+      "2ZDinizz",
+      "Pedro Apoema",
+      "HHR"
+    ]
+  },
+  {
+    "name": "Vilão",
+    "artists": [
+      "TOKIODK",
+      "Gustavo Oli",
+      "ramonbeats"
+    ]
+  },
+  {
+    "name": "Vadio",
+    "artists": [
+      "Crônicas de um Babaca",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "R.O.A.S.T",
+    "artists": [
+      "Frank Jhonson",
+      "Al Baro"
+    ]
+  },
+  {
+    "name": "Terra do Nunca",
+    "artists": [
+      "Zarastruta",
+      "Patricio Sid"
+    ]
+  },
+  {
+    "name": "A Verdade Machuca",
+    "artists": [
+      "Tz da Coronel"
+    ]
+  },
+  {
+    "name": "Angelina",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Horas Iguais",
+    "artists": [
+      "WIU",
+      "Oruam"
+    ]
+  },
+  {
+    "name": "Imagination",
+    "artists": [
+      "Foster The People"
+    ]
+  },
+  {
+    "name": "High John",
+    "artists": [
+      "MF DOOM"
+    ]
+  },
+  {
+    "name": "Inteiro Metade",
+    "artists": [
+      "Tagua Tagua"
+    ]
+  },
+  {
+    "name": "Smile Jamaica",
+    "artists": [
+      "Bob Marley & The Wailers"
+    ]
+  },
+  {
+    "name": "São Paulo",
+    "artists": [
+      "Terno Rei"
+    ]
+  },
+  {
+    "name": "Dá um Tempo",
+    "artists": [
+      "PrimeiraMente",
+      "Lucas Gali"
+    ]
+  },
+  {
+    "name": "Last Summer Whisper",
+    "artists": [
+      "Anri"
+    ]
+  },
+  {
+    "name": "Starter Jacket",
+    "artists": [
+      "Wakai",
+      "Emmavie"
+    ]
+  },
+  {
+    "name": "Santa Kaya",
+    "artists": [
+      "Ponto De Equilíbrio"
+    ]
+  },
+  {
+    "name": "Califórnia",
+    "artists": [
+      "Oreia"
+    ]
+  },
+  {
+    "name": "Something About You",
+    "artists": [
+      "Eyedress",
+      "Dent May"
+    ]
+  },
+  {
+    "name": "Set do G15 - A Revoada Começou",
+    "artists": [
+      "MC G15",
+      "Mc Davi",
+      "Mc Pedrinho",
+      "MC Ryan SP",
+      "Gaab",
+      "Mc Don Juan",
+      "MC JottaPê",
+      "MC Menor da VG",
+      "DJ 900",
+      "Perera DJ"
+    ]
+  },
+  {
+    "name": "The Recipe - Bonus Track",
+    "artists": [
+      "Kendrick Lamar",
+      "Dr. Dre"
+    ]
+  },
+  {
+    "name": "No Passo A Passo",
+    "artists": [
+      "Charlie Brown Jr."
+    ]
+  },
+  {
+    "name": "Bafora o Lança - Remix",
+    "artists": [
+      "Mario Mc",
+      "Menor Adr"
+    ]
+  },
+  {
+    "name": "Cruzeiros",
+    "artists": [
+      "slsd"
+    ]
+  },
+  {
+    "name": "Sonhar Pode",
+    "artists": [
+      "slsd"
+    ]
+  },
+  {
+    "name": "Não É Tristeza",
+    "artists": [
+      "slsd"
+    ]
+  },
+  {
+    "name": "Tu Nada Demais",
+    "artists": [
+      "Tagua Tagua"
+    ]
+  },
+  {
+    "name": "Ratos de Esgoto",
+    "artists": [
+      "Brocasito",
+      "C4rlinhxs"
+    ]
+  },
+  {
+    "name": "Siri",
+    "artists": [
+      "Nill",
+      "CrimeNow"
+    ]
+  },
+  {
+    "name": "Blue World",
+    "artists": [
+      "Mac Miller"
+    ]
+  },
+  {
+    "name": "Previsão do Tempo",
+    "artists": [
+      "SonoTWS"
+    ]
+  },
+  {
+    "name": "Não dá pra Explicar",
+    "artists": [
+      "FBC",
+      "VHOOR",
+      "Mariana Cavanellas"
+    ]
+  },
+  {
+    "name": "Boomzim",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "Delírios",
+    "artists": [
+      "FBC",
+      "VHOOR",
+      "Djair Voz Cristalina"
+    ]
+  },
+  {
+    "name": "Quando o DJ Toca",
+    "artists": [
+      "FBC",
+      "VHOOR",
+      "UANA"
+    ]
+  },
+  {
+    "name": "Fly By Day",
+    "artists": [
+      "Anri"
+    ]
+  },
+  {
+    "name": "Vencer na Vida ?",
+    "artists": [
+      "Crônicas de um Babaca",
+      "Padrin"
+    ]
+  },
+  {
+    "name": "SHYNESS BOY",
+    "artists": [
+      "Anri"
+    ]
+  },
+  {
+    "name": "UM QUEBRADA",
+    "artists": [
+      "Kyan",
+      "Kayin",
+      "Mu540"
+    ]
+  },
+  {
+    "name": "Lembranças",
+    "artists": [
+      "Rô Rosa",
+      "Safê",
+      "Rapha Renó"
+    ]
+  },
+  {
+    "name": "Quando A Gente Briga",
+    "artists": [
+      "Mc Kevin",
+      "Mahogany Beatz",
+      "Gaab"
+    ]
+  },
+  {
+    "name": "Pitbull",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "Maloqueiro da Norte",
+    "artists": [
+      "Mc Kevin",
+      "DJ Glenner"
+    ]
+  },
+  {
+    "name": "THAT'S THAT",
+    "artists": [
+      "MF DOOM"
+    ]
+  },
+  {
+    "name": "Eu Tô Bem",
+    "artists": [
+      "Luiz Lins"
+    ]
+  },
+  {
+    "name": "Can't Tell Me Nothing",
+    "artists": [
+      "Kanye West"
+    ]
+  },
+  {
+    "name": "Carlito",
+    "artists": [
+      "Brocasito",
+      "JayPluggz"
+    ]
+  },
+  {
+    "name": "Deus, Por favor",
+    "artists": [
+      "Mc IG",
+      "Mc Kevin",
+      "DJ WN",
+      "MC PH"
+    ]
+  },
+  {
+    "name": "Flashing Lights",
+    "artists": [
+      "Kanye West",
+      "Dwele"
+    ]
+  },
+  {
+    "name": "Cartas",
+    "artists": [
+      "VND",
+      "KOPO",
+      "Tarcis",
+      "Amanda Sarmento"
+    ]
+  },
+  {
+    "name": "Viajando Na Balada",
+    "artists": [
+      "Somos Nós A Justiça"
+    ]
+  },
+  {
+    "name": "MORGAN FREEMAN",
+    "artists": [
+      "Big Rush",
+      "Link do Zap"
+    ]
+  },
+  {
+    "name": "Cigarettes out the Window",
+    "artists": [
+      "TV Girl"
+    ]
+  },
+  {
+    "name": "I Don't Like Vadias",
+    "artists": [
+      "Shino",
+      "Brocasito"
+    ]
+  },
+  {
+    "name": "Then Came the Last Days of May",
+    "artists": [
+      "Blue Öyster Cult"
+    ]
+  },
+  {
+    "name": "Tudo Nos É Dado (Só Nos Falta Fé)",
+    "artists": [
+      "Mato Seco",
+      "Circuito Reggae"
+    ]
+  },
+  {
+    "name": "Youth Of Today",
+    "artists": [
+      "Musical Youth"
+    ]
+  },
+  {
+    "name": "Melhor Que Ontem",
+    "artists": [
+      "Dow Raiz",
+      "Lino Krizz"
+    ]
+  },
+  {
+    "name": "Já É Tarde",
+    "artists": [
+      "Supperbiro",
+      "SonoTWS",
+      "ALLANA"
+    ]
+  },
+  {
+    "name": "Luzes e Flashes",
+    "artists": [
+      "ogoin",
+      "Linguini",
+      "Maui",
+      "Nathan Morais",
+      "Davi Horta"
+    ]
+  },
+  {
+    "name": "Serenata do Adeus",
+    "artists": [
+      "Elizeth Cardoso"
+    ]
+  },
+  {
+    "name": "Autumn Ring Mini - Sozinho no Touge",
+    "artists": [
+      "Yung Buda"
+    ]
+  },
+  {
+    "name": "por dentro e por fora",
+    "artists": [
+      "Jovem Dionisio"
+    ]
+  },
+  {
+    "name": "Autotune",
+    "artists": [
+      "Link do Zap"
+    ]
+  },
+  {
+    "name": "I Don't Fuck With You",
+    "artists": [
+      "Big Sean",
+      "E-40"
+    ]
+  },
+  {
+    "name": "XXI",
+    "artists": [
+      "Malagueta mc",
+      "gustxn"
+    ]
+  },
+  {
+    "name": "Material",
+    "artists": [
+      "Moses Quiller"
+    ]
+  },
+  {
+    "name": "Lugar Distante",
+    "artists": [
+      "DJ Lou"
+    ]
+  },
+  {
+    "name": "Olá, Moça",
+    "artists": [
+      "Mc IG",
+      "Veigh",
+      "Toledo",
+      "Bvga Beatz",
+      "Galdino",
+      "Honaiser"
+    ]
+  },
+  {
+    "name": "Falta de Amor",
+    "artists": [
+      "Mc Brinquedo",
+      "DJ Oreia"
+    ]
+  },
+  {
+    "name": "Urubus",
+    "artists": [
+      "Matuê",
+      "Derek"
+    ]
+  },
+  {
+    "name": "Meus planos",
+    "artists": [
+      "BrazzaOg"
+    ]
+  },
+  {
+    "name": "Gorilla Roxo",
+    "artists": [
+      "Matuê"
+    ]
+  },
+  {
+    "name": "Uma Luta Por Dia",
+    "artists": [
+      "Mc Kevin",
+      "Dj Nene"
+    ]
+  },
+  {
+    "name": "Iene",
+    "artists": [
+      "Link do Zap"
+    ]
+  },
+  {
+    "name": "oceano",
+    "artists": [
+      "Link do Zap",
+      "ikilledgenji"
+    ]
+  },
+  {
+    "name": "Almas",
+    "artists": [
+      "BK",
+      "JXNV$",
+      "El Lif Beatz",
+      "Juyè"
+    ]
+  },
+  {
+    "name": "Ela Partiu",
+    "artists": [
+      "Gyylo",
+      "Elleven",
+      "iann guxtavo"
+    ]
+  },
+  {
+    "name": "Fogo",
+    "artists": [
+      "Aka Rasta",
+      "Duzz"
+    ]
+  },
+  {
+    "name": "Puta É Só um Detalhe",
+    "artists": [
+      "DJ Douglinhas",
+      "DJ Miller Oficial",
+      "MC Torugo"
+    ]
+  },
+  {
+    "name": "Broccoli (feat. Lil Yachty)",
+    "artists": [
+      "DRAM",
+      "Lil Yachty"
+    ]
+  },
+  {
+    "name": "NOÇÃO",
+    "artists": [
+      "Jean Tassy"
+    ]
+  },
+  {
+    "name": "All I Think About Now",
+    "artists": [
+      "Pixies"
+    ]
+  },
+  {
+    "name": "presente de d",
+    "artists": [
+      "Link do Zap",
+      "EF"
+    ]
+  },
+  {
+    "name": "memórias póstumas do herói",
+    "artists": [
+      "Link do Zap"
+    ]
+  },
+  {
+    "name": "lágrimas no celular",
+    "artists": [
+      "Link do Zap"
+    ]
+  },
+  {
+    "name": "ukdrilldaputaria",
+    "artists": [
+      "yung vegan",
+      "vinicreizi"
+    ]
+  },
+  {
+    "name": "Antes do Fim da Trama",
+    "artists": [
+      "yung vegan",
+      "vinicreizi"
+    ]
+  },
+  {
+    "name": "eu vou pra casa então (Interlúdio)",
+    "artists": [
+      "akanizzi",
+      "Yung Buda"
+    ]
+  },
+  {
+    "name": "Piloto",
+    "artists": [
+      "Yung Buda"
+    ]
+  },
+  {
+    "name": "Ressalva",
+    "artists": [
+      "Big Bllakk",
+      "Pedro Apoema",
+      "Isis Orbelli",
+      "Peon"
+    ]
+  },
+  {
+    "name": "Chamber of Mandela",
+    "artists": [
+      "DJ Kayo Original",
+      "DJ DUARTE",
+      "Yuri Redicopa",
+      "MC Davi CPR",
+      "DJ AKA DF",
+      "Prime Funk"
+    ]
+  },
+  {
+    "name": "Lente Transparente",
+    "artists": [
+      "Tz da Coronel",
+      "CalliCartel",
+      "Victor WAO"
+    ]
+  },
+  {
+    "name": "Não Temos Medo - Remix",
+    "artists": [
+      "Tz da Coronel",
+      "Filipe Ret",
+      "Orochi"
+    ]
+  },
+  {
+    "name": "HOLY SMOKES!",
+    "artists": [
+      "SXMPRA"
+    ]
+  },
+  {
+    "name": "MAC10",
+    "artists": [
+      "EF"
+    ]
+  },
+  {
+    "name": "Minhamac10",
+    "artists": [
+      "Ugovhb",
+      "chard la plaga",
+      "Link do Zap",
+      "Uxie Kid",
+      "izxx"
+    ]
+  },
+  {
+    "name": "OCARINA OF TUF TUF",
+    "artists": [
+      "Teo"
+    ]
+  },
+  {
+    "name": "A Última",
+    "artists": [
+      "D$ Luqi"
+    ]
+  },
+  {
+    "name": "ATÉ QUE DUROU - DOOMSHOP REMIX",
+    "artists": [
+      "Real Mah",
+      "Teo"
+    ]
+  },
+  {
+    "name": "WTF!!!",
+    "artists": [
+      "Ugovhb",
+      "EF"
+    ]
+  },
+  {
+    "name": "Tipo Gringa",
+    "artists": [
+      "DJ Matt D",
+      "Menor MC"
+    ]
+  },
+  {
+    "name": "Rastejando Entre Cogumelos",
+    "artists": [
+      "De Leve"
+    ]
+  },
+  {
+    "name": "vice city",
+    "artists": [
+      "XXXTENTACION"
+    ]
+  },
+  {
+    "name": "A Música Mais Triste do Ano",
+    "artists": [
+      "Luiz Lins",
+      "Mazili",
+      "Moral"
+    ]
+  },
+  {
+    "name": "Vou Busca Minha Fulô",
+    "artists": [
+      "Emicida"
+    ]
+  },
+  {
+    "name": "Buffalo Soldier",
+    "artists": [
+      "Bob Marley & The Wailers"
+    ]
+  },
+  {
+    "name": "Sh-Boom",
+    "artists": [
+      "The Chords"
+    ]
+  },
+  {
+    "name": "DESACATO",
+    "artists": [
+      "TTF",
+      "Stef",
+      "Derek",
+      "DESSIIIK"
+    ]
+  },
+  {
+    "name": "Bastian Laurent",
+    "artists": [
+      "Oblivion's Mighty Trash"
+    ]
+  },
+  {
+    "name": "Fumaçando Ice",
+    "artists": [
+      "Mc Don Juan",
+      "Mc IG",
+      "Dj Felipe Maia"
+    ]
+  },
+  {
+    "name": "Não Adianta Chorar",
+    "artists": [
+      "BK",
+      "JXNV$",
+      "Pretinho da Serrinha",
+      "Trio Mocoto"
+    ]
+  },
+  {
+    "name": "I Wonder",
+    "artists": [
+      "Kanye West"
+    ]
+  },
+  {
+    "name": "Pamplona",
+    "artists": [
+      "yung vegan"
+    ]
+  },
+  {
+    "name": "FREESTYLE DE LUXO (feat. Yunk Vino)",
+    "artists": [
+      "WIU",
+      "Yunk Vino"
+    ]
+  },
+  {
+    "name": "Starboy",
+    "artists": [
+      "The Weeknd",
+      "Daft Punk"
+    ]
+  },
+  {
+    "name": "MUNDO DO WIU",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "POUQUINHO DA MINHA VIBE (feat. Japa)",
+    "artists": [
+      "WIU",
+      "Japa"
+    ]
+  },
+  {
+    "name": "OXIGÊNIO (feat. Lil Mosey)",
+    "artists": [
+      "WIU",
+      "Lil Mosey"
+    ]
+  },
+  {
+    "name": "BARRAS & BARRAS",
+    "artists": [
+      "Derek",
+      "tchelo rodrigues",
+      "retroboy",
+      "TTF"
+    ]
+  },
+  {
+    "name": "CONTRA MÃO",
+    "artists": [
+      "NORTRAGAMUS",
+      "Mãolee"
+    ]
+  },
+  {
+    "name": "atoa",
+    "artists": [
+      "Teto",
+      "EarKid"
+    ]
+  },
+  {
+    "name": "100 Linhas",
+    "artists": [
+      "Yung Kurz",
+      "lpn gang"
+    ]
+  },
+  {
+    "name": "019 021 (Freestyle)",
+    "artists": [
+      "zoli.wav",
+      "tsuji.wav",
+      "ORÁCULO"
+    ]
+  },
+  {
+    "name": "Creep - Acoustic",
+    "artists": [
+      "Radiohead"
+    ]
+  },
+  {
+    "name": "espelho",
+    "artists": [
+      "Teto"
+    ]
+  },
+  {
+    "name": "bolas de haxi",
+    "artists": [
+      "Teto"
+    ]
+  },
+  {
+    "name": "doce mágico",
+    "artists": [
+      "Teto",
+      "Menor MC",
+      "DJ Matt D"
+    ]
+  },
+  {
+    "name": "Limão",
+    "artists": [
+      "WIU"
+    ]
+  },
+  {
+    "name": "PUTO (feat. Alee)",
+    "artists": [
+      "WIU",
+      "Alee"
+    ]
+  },
+  {
+    "name": "Sim ou Não II",
+    "artists": [
+      "Massaru"
+    ]
+  },
+  {
+    "name": "Mãos Para o Alto",
+    "artists": [
+      "MC PH",
+      "CJota",
+      "Mukab",
+      "Lil Kid 777",
+      "Mc IG",
+      "tchelo rodrigues",
+      "Borges",
+      "Ferrari offG",
+      "Andressinha",
+      "NGC Daddy",
+      "TrapLaudo",
+      "Neo BXD",
+      "Pedro Trick",
+      "Pedro Lotto",
+      "Galdino"
+    ]
+  },
+  {
+    "name": "Ela É Rainha do Plug",
+    "artists": [
+      "Prod. Yung Matzu"
+    ]
+  },
+  {
+    "name": "Yeezy Slide \"FREESTYLE 01\"",
+    "artists": [
+      "LEALL",
+      "Derek",
+      "Rock Danger",
+      "$amuka",
+      "Big Bllakk"
+    ]
+  },
+  {
+    "name": "Deixa Eu Te Fazer Feliz",
+    "artists": [
+      "Márcia Fellipe",
+      "Aldair Playboy"
+    ]
+  },
+  {
+    "name": "Hoje Eu Só Procuro A Minha Paz",
+    "artists": [
+      "Charlie Brown Jr."
+    ]
+  },
+  {
+    "name": "00H15",
+    "artists": [
+      "elkay"
+    ]
+  },
+  {
+    "name": "CALA-BOCA, TRABALHO",
+    "artists": [
+      "Rudies Flacko",
+      "Aka Rasta"
+    ]
+  },
+  {
+    "name": "Anjos (Pra quem tem fé)",
+    "artists": [
+      "O Rappa"
+    ]
+  },
+  {
+    "name": "Jack Bauer",
+    "artists": [
+      "Jé",
+      "Celo1st"
+    ]
+  },
+  {
+    "name": "Looping Vicioso",
+    "artists": [
+      "Vitinho Montagem",
+      "MC Davi CPR",
+      "DJ NUNES 019",
+      "Yuri Redicopa"
+    ]
+  },
+  {
+    "name": "Vícios E Virtudes - Ao Vivo",
+    "artists": [
+      "Charlie Brown Jr."
+    ]
+  },
+  {
+    "name": "Ela joga no 7",
+    "artists": [
+      "Tz da Coronel",
+      "MC Ryan SP",
+      "KayBlack",
+      "Dj Murillo e LT no Beat",
+      "Cúpula"
+    ]
+  },
+  {
+    "name": "Cafetão",
+    "artists": [
+      "jonV",
+      "BS Little"
+    ]
+  },
+  {
+    "name": "Irrelevant",
+    "artists": [
+      "Deko",
+      "Yameii Online"
+    ]
+  },
+  {
+    "name": "one of wun",
+    "artists": [
+      "Gunna"
+    ]
+  },
+  {
+    "name": "Tamo Ai Na Atividade",
+    "artists": [
+      "Charlie Brown Jr."
+    ]
+  },
+  {
+    "name": "Me Chama Pelo Meu Vulgo",
+    "artists": [
+      "MC PH",
+      "WEY",
+      "Pedro Lotto",
+      "Gustah"
+    ]
+  },
+  {
+    "name": "Medley 2025",
+    "artists": [
+      "Mc IG",
+      "DJ Glenner",
+      "Fepache"
+    ]
+  },
+  {
+    "name": "Chove Chuva",
+    "artists": [
+      "Big Bllakk",
+      "Rock Danger",
+      "Sant",
+      "$amuka",
+      "Babidi"
+    ]
+  },
+  {
+    "name": "Acende o Asfalto",
+    "artists": [
+      "MC PH",
+      "Mc IG",
+      "Murillo e LT no Beat"
+    ]
+  },
+  {
+    "name": "I Love Kanye",
+    "artists": [
+      "Kanye West"
+    ]
+  },
+  {
+    "name": "Everything I Am",
+    "artists": [
+      "Kanye West",
+      "DJ Premier"
+    ]
+  },
+  {
+    "name": "Roubou Meu Coração",
+    "artists": [
+      "Mc Kevin",
+      "Dj Nene"
+    ]
+  },
+  {
+    "name": "Invisível",
+    "artists": [
+      "Jovem Dionisio"
+    ]
+  },
+  {
+    "name": "Pastel",
+    "artists": [
+      "Jovem Dionisio"
+    ]
+  },
+  {
+    "name": "Belnini",
+    "artists": [
+      "Jovem Dionisio"
+    ]
+  },
+  {
+    "name": "Satisfazer",
+    "artists": [
+      "Jovem Dionisio"
+    ]
+  },
+  {
+    "name": "É Osso",
+    "artists": [
+      "Jovem Dionisio"
+    ]
+  },
+  {
+    "name": "BiKE (blv)",
+    "artists": [
+      "Jovem Dionisio"
+    ]
+  },
+  {
+    "name": "O Show Nunca Acaba",
+    "artists": [
+      "BK",
+      "Nansy Silvvz"
+    ]
+  },
+  {
+    "name": "Fuck Love",
+    "artists": [
+      "XXXTENTACION",
+      "Trippie Redd"
+    ]
+  },
+  {
+    "name": "Toosie Slide",
+    "artists": [
+      "Drake"
+    ]
+  },
+  {
+    "name": "Me Sinto Vivo",
+    "artists": [
+      "VL"
+    ]
+  },
+  {
+    "name": "YKWIM?",
+    "artists": [
+      "Yot Club"
+    ]
+  },
+  {
+    "name": "Sexo, Beck e Fumaça",
+    "artists": [
+      "Akira Presidente",
+      "El Lif Beatz",
+      "Luccas Carlos"
+    ]
+  },
+  {
+    "name": "No Face",
+    "artists": [
+      "Ghostface Killah",
+      "Kanye West"
+    ]
+  },
+  {
+    "name": "Safra de Diamantes",
+    "artists": [
+      "Aka Rasta"
+    ]
+  },
+  {
+    "name": "Perfil #100 - Presidencial",
+    "artists": [
+      "Raffa Moreira",
+      "Pineapple StormTv",
+      "Guiggow",
+      "FamousKyo"
+    ]
+  },
+  {
+    "name": "Cartier Santos Dumont",
+    "artists": [
+      "Febre90s",
+      "SonoTWS",
+      "pumapjl"
+    ]
+  },
+  {
+    "name": "Vá Embora",
+    "artists": [
+      "Dow Raiz"
+    ]
+  },
+  {
+    "name": "Dois Lados",
+    "artists": [
+      "Tivityn"
+    ]
+  },
+  {
+    "name": "Medo de Morrer em Fita Errada",
+    "artists": [
+      "jonV"
+    ]
+  },
+  {
+    "name": "After Party",
+    "artists": [
+      "Japa",
+      "Borges",
+      "JD On Tha Track",
+      "Gabriel Lucchini"
+    ]
+  },
+  {
+    "name": "Fluído",
+    "artists": [
+      "Puro Suco"
+    ]
+  },
+  {
+    "name": "A Lua Que Surgiu",
+    "artists": [
+      "DeanBlue",
+      "Santtoss!",
+      "astavodois"
+    ]
+  },
+  {
+    "name": "Sonho",
+    "artists": [
+      "yung vegan",
+      "vinicreizi"
+    ]
+  },
+  {
+    "name": "Nata",
+    "artists": [
+      "Massaru",
+      "EF"
+    ]
+  },
+  {
+    "name": "Digitos",
+    "artists": [
+      "Massaru",
+      "EF",
+      "Kyan"
+    ]
+  },
+  {
+    "name": "Cavalo - Remix",
+    "artists": [
+      "vinicreizi",
+      "yung vegan"
+    ]
+  },
+  {
+    "name": "Medo do Amanhã",
+    "artists": [
+      "Iruy",
+      "gustxn"
+    ]
+  },
+  {
+    "name": "EURO LIBRA",
+    "artists": [
+      "Brandão85",
+      "Teto"
+    ]
+  },
+  {
+    "name": "Menu Degustativo",
+    "artists": [
+      "MC Davi CPR",
+      "DJ ORBITAL",
+      "kyra",
+      "Authentic Records"
+    ]
+  },
+  {
+    "name": "Boa Noite Sunshine",
+    "artists": [
+      "Tarcis",
+      "Luna"
+    ]
+  },
+  {
+    "name": "Iluminado",
+    "artists": [
+      "Akira Presidente",
+      "CHF"
+    ]
+  }
+]
